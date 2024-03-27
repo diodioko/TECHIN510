@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 - streamlit run app.py
 
-## how to run
+## What's Included
 - `app.py`: The main Flask application
 
 ## Lesson and learn
